@@ -1,0 +1,1 @@
+thrift-0.9.1.exe --gen php:server -out Lib\gen-php\AMC AMC\AMC.thrift 
